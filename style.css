@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+    color:#ffff00;
+    font-size:25px;
+    background-color:orange;
+  }
+  h1{
+    font-family: 'STIX Two Math', serif;
+    color:blue;
+    font-size:50px;
+  }
+  img{
+    width: 500px;
+    border:10px solid blue;
+    padding:5px;
+    border-radius:50px;
+  }
+  #buttonN{
+    font-size:30px;
+    color:yellow;
+    background:green;
+  }
+  #buttonP{
+    font-size:30px;
+    color:yellow;
+    background:green;
+  }
